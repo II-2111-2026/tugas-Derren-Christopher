@@ -78,7 +78,7 @@ kepercayaan?"""
 
 def q09() -> float:
     return 1.0
-    """[Numeric] Untuk sampel n = 16 dan simpangan baku sampel = 4, berapakah nilai
+    """ Untuk sampel n = 16 dan simpangan baku sampel = 4, berapakah nilai
 estimasi Standard Error-nya?"""
     raise NotImplementedError
 
