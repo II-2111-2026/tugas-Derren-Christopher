@@ -60,7 +60,7 @@ D) 6,5"""
 
 def q07() -> str:
     return "A"
-    """[MC] Fungsi probabilitas kondisional (|) didefinisikan sebagai:
+    """ Fungsi probabilitas kondisional (|) didefinisikan sebagai:
 
 A) (,)/ () X
 B) (,)/()
