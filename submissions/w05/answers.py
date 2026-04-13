@@ -78,7 +78,7 @@ def q09() -> float:
 
 def q10() -> float:
     return 16.0
-    """[Numeric] Jika E[X] = 10 dan E[X2] = 116, berapakah variansinya?"""
+    """ Jika E[X] = 10 dan E[X2] = 116, berapakah variansinya?"""
     raise NotImplementedError
 
 def q11() -> float:
