@@ -79,7 +79,7 @@ X = 10?"""
 
 def q09() -> float:
     return 0.8
-    """[Numeric] Jika R2 = 0,64, berapakah nilai korelasi (ambil nilai positif)?"""
+    """ Jika R2 = 0,64, berapakah nilai korelasi (ambil nilai positif)?"""
     raise NotImplementedError
 
 def q10() -> float:
