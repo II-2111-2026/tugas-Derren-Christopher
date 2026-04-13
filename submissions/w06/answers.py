@@ -74,7 +74,7 @@ def q08() -> float:
 
 def q09() -> float:
     return 0.135
-    """[Numeric] Untuk distribusi Poisson dengan = 2, berapakah probabilitas P(X = 0)?
+    """ Untuk distribusi Poisson dengan = 2, berapakah probabilitas P(X = 0)?
 (Gunakan 3 desimal)"""
     raise NotImplementedError
 
