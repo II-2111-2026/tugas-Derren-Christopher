@@ -75,7 +75,7 @@ ditolak? (Tulis 1 untuk Ya, 0 untuk Tidak)"""
 
 def q09() -> float:
     return 0.01
-    """[Numeric] Berapakah nilai jika tingkat kepercayaan adalah 99%?"""
+    """ Berapakah nilai jika tingkat kepercayaan adalah 99%?"""
     raise NotImplementedError
 
 def q10() -> float:
