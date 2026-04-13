@@ -69,7 +69,7 @@ D) Tes tersebut tidak berguna."""
 
 def q08() -> float:
     return 0.4
-    """[Numeric] Jika P(A∩B) = 0,2 dan P(B) = 0,5, berapakah P(A|B)?"""
+    """ Jika P(A∩B) = 0,2 dan P(B) = 0,5, berapakah P(A|B)?"""
     raise NotImplementedError
 
 def q09() -> float:
