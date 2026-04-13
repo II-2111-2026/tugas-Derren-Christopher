@@ -78,7 +78,7 @@ rata untuk n = 25?"""
 
 def q09() -> float:
     return 2.0
-    """[Numeric] Hitung Standard Error jika = 12 dan n = 36."""
+    """ Hitung Standard Error jika = 12 dan n = 36."""
     raise NotImplementedError
 
 def q10() -> float:
