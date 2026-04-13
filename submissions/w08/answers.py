@@ -31,7 +31,7 @@ def q03() -> bool:
 
 def q04() -> str:
     return "C"
-    """[MC] Jika = 0, 5, = 0,  dan ,  independen, maka  adalah:
+    """ Jika = 0, 5, = 0,  dan ,  independen, maka  adalah:
 a) 0,9
 b) 0,1
 c) 0,2
