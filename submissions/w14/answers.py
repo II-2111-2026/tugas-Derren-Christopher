@@ -81,7 +81,7 @@ yang benar?"""
 
 def q10() -> float:
     return 0.8
-    """[Numeric] Hitung F1-score jika Presisi = 0,8 dan Recall = 0,8."""
+    """ Hitung F1-score jika Presisi = 0,8 dan Recall = 0,8."""
     raise NotImplementedError
 
 def q11() -> float:
