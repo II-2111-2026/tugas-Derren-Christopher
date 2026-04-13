@@ -75,7 +75,7 @@ def q08() -> float:
 
 def q09() -> float:
     return 0.01
-    """[Numeric] Sebuah komponen memiliki rata-rata waktu hidup 100 jam (Eksponensial).
+    """ Sebuah komponen memiliki rata-rata waktu hidup 100 jam (Eksponensial).
 Berapakah parameter -nya?"""
     raise NotImplementedError
 
